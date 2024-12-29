@@ -16,4 +16,4 @@ Developed a sophisticated medical imaging application for interactive visualizat
 - Implemented real-time synchronization across multiple views
 
 The application streamlines neuroimaging analysis workflow while maintaining professional-grade visualization standards and intuitive user experience.<br><br>
-![Green Modern Coding Schoology Profile Picture](https://github.com/user-attachments/assets/a7a474dc-745c-49f1-93f2-bf696b54dbc9)
+<img src="https://github.com/user-attachments/assets/a7a474dc-745c-49f1-93f2-bf696b54dbc9" alt="Example Image" width="800" height="700">
