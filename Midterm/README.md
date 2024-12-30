@@ -12,5 +12,4 @@ Our proposal is divided to the following:
 We've also produced an animated infographic video to express the idea more ..
   <br>
 
-<img src="https://github.com/user-attachments/assets/7f3b1bc6-eeaf-4548-9152-88d091d5bdd7" alt="First Image" width="400" style="display:inline-block; margin-right: 15px;">
-<img src="https://github.com/user-attachments/assets/e828b505-5925-41f2-990e-eb3d2fc3eae2" alt="Second Image" width="400" style="display:inline-block;">
+![Screenshot 2024-12-30 030229](https://github.com/user-attachments/assets/dfdcbc5a-9bc6-44a9-bf11-739ce53b9b22)
