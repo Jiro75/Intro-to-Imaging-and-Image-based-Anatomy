@@ -1,5 +1,5 @@
 # ⚛️ Relativity Using Massless Waves in Medical Imaging
-We've conducted a proposal about using massless waves in medical imaging, which involved breaking the law of conservation of energy **E=mc<sup>2</sup>** as we put an assumed 
+We've conducted a proposal about using massless waves in medical imaging, which involved breaking the law of conservation of energy **_E=mc<sup>2</sup>_** as we put an assumed 
 threshold the current technologies can deal with.<br><br>
 Our proposal is divided to the following:
 - Introduction to the idea.
