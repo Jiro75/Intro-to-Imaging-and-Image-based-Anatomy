@@ -29,4 +29,8 @@ This project demonstrates the power of modern computer vision in sports analytic
 
 https://github.com/user-attachments/assets/fa465aae-d491-4cd0-b85f-fe5e724570c6
 
+## 🧾 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Intro-to-Imaging-and-Image-based-Anatomy/blob/da9c88306ad92a10ca93f5c355d2b6c4fdc0ee02/LICENSE) for details.
 
+## 📞 Contact
+mostafa.hussien05@eng-st.cu.edu.eg
