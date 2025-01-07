@@ -17,6 +17,14 @@ We had the chance to develop a medical imaging analysis platform in just two wee
 - numpy
 
 ## Project Photos
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/740d8e62-fecd-4f47-940c-dc24b0f6a83c" width="500px" height="312.5px" alt="Image 1">
+    <img src="https://github.com/user-attachments/assets/d214bf9a-8342-4371-8183-f2dbff9c39eb" width="500px" height="312.5px" alt="Image 2">
+    <img src="https://github.com/user-attachments/assets/221e9976-44e7-40ce-9214-b30e4a9e42c6" width="500px" height="312.5px" alt="Image 3">
+    <img src="https://github.com/user-attachments/assets/b6ebc7b8-ae33-4cda-82a1-8ce6debe5a46" width="500px" height="312.5px" alt="Image 4">
+  </div>
+</div>
 
 
 
