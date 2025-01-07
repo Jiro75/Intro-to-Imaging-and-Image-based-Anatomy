@@ -16,7 +16,7 @@ Engineered for seamless real-time analysis, our solution handles complex computa
 
 This project demonstrates the power of modern computer vision in sports analytics, providing coaches and analysts with professional-grade tools for performance assessment. The intuitive interface makes advanced AI capabilities accessible to sports professionals, enabling data-driven decision-making in team strategy and player development.
 
-## Involved Libraries 📚
+## 📚 Involved Libraries 
 - Ultralytics(YOLO)
 - OpenCv
 - Streamlit
@@ -29,6 +29,8 @@ This project demonstrates the power of modern computer vision in sports analytic
 
 https://github.com/user-attachments/assets/fa465aae-d491-4cd0-b85f-fe5e724570c6
 
+## 📖 Dataset
+Here is a link for a diverse dataset you could use to test the program:
 ## 🧾 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Intro-to-Imaging-and-Image-based-Anatomy/blob/da9c88306ad92a10ca93f5c355d2b6c4fdc0ee02/LICENSE) for details.
 
