@@ -16,7 +16,7 @@ We had the chance to develop a medical imaging analysis platform in just two wee
 - matplotlib
 - numpy
 
-## Project Photos
+## 📷 Project Photos
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
     <img src="https://github.com/user-attachments/assets/740d8e62-fecd-4f47-940c-dc24b0f6a83c" width="500px" height="312.5px" alt="Image 1">
