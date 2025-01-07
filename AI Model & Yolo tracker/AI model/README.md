@@ -28,3 +28,7 @@ This project not only enhanced our technical expertise in biomedical AI applicat
 
 https://github.com/user-attachments/assets/8e79c919-8993-4af8-a3da-071d8280b3a6
 
+## Dataset
+Here is a link for the dataset used in training the model:
+
+
