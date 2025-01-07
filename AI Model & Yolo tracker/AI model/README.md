@@ -29,7 +29,7 @@ This project not only enhanced our technical expertise in biomedical AI applicat
 https://github.com/user-attachments/assets/8e79c919-8993-4af8-a3da-071d8280b3a6
 
 ## Dataset 📖
-Here is a link for the dataset used in training the model:
+Here is a link for the dataset used in training the model: https://drive.google.com/file/d/1ONFwkFTxkGCnTX5IfnGnE1rg9vz55csv/view?usp=sharing
 
 ## License 🧾
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Intro-to-Imaging-and-Image-based-Anatomy/blob/da9c88306ad92a10ca93f5c355d2b6c4fdc0ee02/LICENSE) for details.
