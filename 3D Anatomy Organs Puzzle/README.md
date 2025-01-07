@@ -31,3 +31,10 @@ The result? A unique, hands-on anatomy puzzle that challenges users’ spatial s
 
 https://github.com/user-attachments/assets/5a35b761-0a59-4785-8202-464c03b32507
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Intro-to-Imaging-and-Image-based-Anatomy/blob/da9c88306ad92a10ca93f5c355d2b6c4fdc0ee02/LICENSE) for details.
+
+## Contact
+mostafa.hussien05@eng-st.cu.edu.eg
+
+
