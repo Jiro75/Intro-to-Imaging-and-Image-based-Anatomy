@@ -11,4 +11,4 @@
 - Mostafa Hazem
 - Muhammad Nasser
 
-Every one of them has shown a well-recognized effort and produced fascinating outputs. I truly had the honor to lead such a hard-working team like that 💪✨
+Every one of them has shown a well-recognized effort and produced fascinating outputs. I truly had the honor to lead such a hard-working team 💪✨
